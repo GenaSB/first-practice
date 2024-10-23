@@ -1,5 +1,0 @@
-Teting line
-untesting file
-commit test
-Addd Line
-and one strict
